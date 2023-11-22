@@ -1,0 +1,42 @@
+	Edit > Preferences >
+		General >
+			Basic Tools > Make Hand tool select text & images > UNcheck
+			Basic Tools > Make Hand read articles > UNcheck
+			Basic Tools > Show online storage when saving files > UNcheck
+			Basic Tools > Open documents as new tabs in the same window (requires restart) > UNcheck
+			Basic Tools > Prompt before closing multiple tabs > UNcheck
+			Warnings > Do not show edit warnings > CHECK
+			Messages from Adobe > Show me messages when I launch Adobe Acrobat > UNcheck
+		Page Display >
+			Page Layout > Single Page
+			Zoom > Fit Page
+			Other Accessibility Options > Enable assistive technology support > UNcheck
+		Accessibility >
+			Override Page Display > Always use Page Layout Style > CHECK > Single Page
+			Override Page Display > Always use Zoom Setting > CHECK > Fit Page
+		Internet >
+			Web Browser Options > Display in Read Mode by default > UNcheck
+			Web Browser Options > Allow fast web view > UNcheck
+			Web Browser Options > Allow speculative downloading in the background > UNcheck
+		Reviewing >
+			Shared Review Options > Show Welcome dialog when opening file > UNcheck
+			Shared Review Options > Show server connection warning dialog when opening file > UNcheck
+		Search >
+			Fast Find > Enable fast find > UNcheck
+		Tracker >
+			Shared Review and Form Data Collection (Server-Based) > Automatically Check for New Comments and Form Data > Never (slider right)
+			Notifications > Show notification icon in system tray > UNcheck
+			Notifications > Show notification inside Adobe Acrobat > UNcheck
+		Units & Guides >
+			Rulers > Show rulers when opening documents
+	(When viewing a document)
+	Collapse right toolbar
+	View > Display Theme > Dark Gray
+	View > Show/Hide > Toolbar Items > 
+		Show File Tools > Save Files to Adobe Document Cloud... > UNcheck
+		Show File Tools > Print... > UNcheck
+		Show File Tools > Send File... > UNcheck
+		Show Edit Tools > Find > UNcheck
+		Customize Quick Tools...
+			Edit PDF > Edit > +
+			Enhance Scans > Recognize Text in This File > +
