@@ -48,7 +48,7 @@ Edit > Preferences >
 		Notifications > Show notification inside Adobe Acrobat > UNcheck
 		
 	Units & Guides >
-		Rulers > Show rulers when opening documents
+		Rulers > Show rulers when opening documents (not there)
 		
 (When viewing a document)
 
@@ -57,14 +57,16 @@ Edit > Preferences >
 	View > Display Theme > Dark Gray
 
 	View > Show/Hide > Toolbar Items > 
+		Show File Tools > Save > UNcheck
+		Show File Tools > Add File To Starred File > UNcheck
 		Show File Tools > Save Files to Adobe Document Cloud... > UNcheck
 		Show File Tools > Print... > UNcheck
 		Show File Tools > Send File... > UNcheck
 		Show Edit Tools > Find > UNcheck
 		Customize Quick Tools...
-			Edit PDF > Edit > +
+			(CLik o nthe existing signature icon) > Trashcan
+			Edit PDF > Edit > + (there by default)
 			Edit PDF > Add Text > +
-			Enhance Scans > Recognize Text in This File > + (older versions)
-			Scan & OCR > Recognize Text in This File > + (newer versions -- note there are 2x "Scan & OCR" sections)
-			Comment > Sticky Note > +
-			Comment > Highlight > +
+			Scan & OCR (1st one) > Recognize Text in This File > +
+			Comment > Sticky Note > + (there by default)
+			Comment > Highlight > + (there by default)
