@@ -2,6 +2,9 @@
 
 Edit > Preferences >
 
+	Documents > 
+		Open Settings > Allow documents to hide the menu bar, toolbars, and windows controls > UNcheck
+	
 	General >
 		Basic Tools > Make Hand tool select text & images > UNcheck
 		Basic Tools > Make Hand tool read articles > UNcheck
@@ -10,6 +13,7 @@ Edit > Preferences >
 		Basic Tools > Prompt before closing multiple tabs > UNcheck
 		Warnings > Do not show edit warnings > CHECK
 		Messages from Adobe > Show me messages when I launch Adobe Acrobat > UNcheck
+		Application Startup > Tell me if Adobe Acrobat is not my default PDF application > UNcheck
 		
 	Page Display >
 		Page Layout > Single Page
@@ -29,10 +33,15 @@ Edit > Preferences >
 		Shared Review Options > Share for review using Adobe's cloud storage > UNcheck
 		Shared Review Options > Show Welcome dialog when opening file > UNcheck
 		Shared Review Options > Show server connection warning dialog when opening file > UNcheck
+		Confrim Importing of Comments into Active Reviews from PDF Files > UNcheck
 		
 	Search >
+		Search > Show document title in search results > UNcheck
 		Fast Find > Enable fast find > UNcheck
-		
+
+	Security (Enhanced) >
+		Enhanced Security > Enable Enhanced Security > UNcheck
+
 	Tracker >
 		Shared Review and Form Data Collection (Server-Based) > Automatically Check for New Comments and Form Data > Never (slider right)
 		Notifications > Show notification icon in system tray > UNcheck
