@@ -1,0 +1,83 @@
+Hamburger (top-right) > Settings > 
+	General > 
+		File and Applications >
+			Applications > Portable Document Format (PDF) > Save File
+		Browsing >
+			Always underline links > CHECK
+			Recommend extensions as you browse > UNcheck
+			Recommend features as you browse > UNcheck
+	Home > 
+		New Windows and Tabs >
+			Homepage and new windows > Blank Page
+			New tabs > Blank Page
+		Firefox Home Content >
+			Shortcuts > UNcheck
+			Recommended by Pocket > UNcheck
+			Recent Activity > UNcheck (default)
+			Snippets > UNcheck (default)
+	Search > 
+		Default Search Engine >
+			Show search terms instead of URL on default search engine results page > UNcheck
+		Search Shortcuts >
+			Amazon.com > Remove
+			Bing > Remove
+			DuckDuckGo > Remove
+			eBay > Remove
+			Wikipedia (en) > Remove
+			UNcheck all of the remaining
+	Privacy & Security >
+		Website Privacy Preferences >
+			Tell websites not to sell or share my data > CHECK
+			Send websites a “Do Not Track” request > CHECK
+		Cookies and Site Data >
+			Delete cookies and site data when Firefox is closed > CHECK
+		Logins and Password >
+			Ask to save logins and password for websites > UNcheck
+			Show alerts about passwords for breached websites > UNcheck
+		Forms and Autofill >
+			Autofill addresses > UNcheck
+			Autofill credit cards > UNcheck
+		Address Bar — Firefox Suggest >
+			Browsing history > UNcheck
+			Open tabs > UNcheck
+			Shortcuts > UNcheck
+			Search engines > UNcheck
+			Suggestions from the web > UNcheck
+			Suggestions from sponsors > UNcheck
+		Permissions >
+			Locations > Settings > Block new requests asking to access your location > CHECK
+			Notifications > Settings > Block new requests asking to access your location > CHECK
+			Autoplay > Settings > 
+				Remove All Websites
+				Default for all websites > Block Audio and Video
+			Virtual Reality > Settings > Block new requests asking to access your location > CHECK
+		Firefox Data Collection and Use >
+			Allow Firefox to send technical and interaction data to Mozilla > UNcheck
+			Allow Firefox to install and run studies > UNcheck
+		Security >
+			Deceptive Content and Dangerous Software Protection
+
+Right Click Toolbar > Customize Toolbar >
+	Remove spacers
+	Add "Home" to the left side, right next to the search bar
+	Remove "Save to Pocket"
+	Drag "Firefox account" to Overflow Menu
+
+Hamburger menu > Bookmarks
+	Delete all "Recent Bookmarks"
+	Show bookmarks toolbar
+
+Bookmark toolbar > (right click) Import bookamrks... >  Remove from Toolbar
+	
+---- ADD-ONS ----
+Bitwarden
+https://addons.mozilla.org/en-US/firefox/addon/bitwarden-password-manager/
+Install
+Pin to Toolbar
+Exit out of left banner
+Login
+Settings >
+	Show auto-fill menu on form fields > When fiels is selected (on focus)
+	Auto-fill on page load > CHECK
+--------
+Sign in to firefox
