@@ -1,43 +1,8 @@
-Backup from existing install:
-	Wireguard Tunnels
-	mRemoteNG Configs
-	Quick access directory with shortcuts
-	uBlock rules
-	MS Word (%AppData% = C:\Users\%username%\AppData)
-		Toolbar(s)
-			%AppData%\Local\Microsoft\Office\*officeSL
-			%AppData%\Local\Microsoft\Office\*officeUI
-		Autocorrect Dictionary
-			%AppData%\Roaming\Microsoft\Office\MSO1033.acl
-		Custom Dictionary
-			%AppData%\Roaming\Microsoft\UProof\
-		Templates
-			%AppData%\Roaming\Microsoft\Templates\
-	Printer Settings
-		Custom Print Settings/Templates
-		Custom Paper Sizes
-	Task Scheduler
-	Custom startup apps
+Search "UAC" > Change User Account Control settings > User Account Control Settings > Never Notify > OK
 
-Win10 > Installation
-	USB > VentToy > Win10 ISO
-	Boot from USB
-	Have network connectivity during setup (Ethernet is always preferable, but it will ask for WiFi stuff at some point, I assume)
-	"Let’s add your account"
-		Offline account (bottom left, light blue text on dark blue background)
-		Limited experience (bottom left, light blue text on dark blue background)
-		Name: "user"
-		Password: [click "Next"] (you do not have to enter a password)
-	Edge
-		"Not now"
-	Privacy Settings
-		UNcheck everything
-	Let the install finish the rest of the setup
+Windows Update > Install all updates and optional updates (drivers) [several restarts may be required]
 
-Win10 > Configuration
-	Search "UAC" > Change User Account Control settings > User Account Control Settings > Never Notify > OK
-	Windows Update > Install all updates and optional updates (drivers) [several restarts may be required]
-	Install Firefox (or at least download the Firefox installer). You will want to do this before running Atlas, as Atlas will remove Edge and no browser will remain.
+Install Firefox (or at least download the Firefox installer). You will want to do this before running Atlas, as Atlas will remove Edge and no browser will remain.
 	Install Atlas
 		https://atlasos.net/
 		Use AME Wizard with default playbook
