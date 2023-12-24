@@ -1,0 +1,20 @@
+USB > VentToy > Win10 ISO
+
+Boot from USB
+	"Enter" to interrupt startup on Lenovo/ThinkPad
+
+Have network connectivity during setup (Ethernet is always preferable, but it will ask for WiFi stuff at some point, I assume)
+
+"Let’s add your account"
+	Offline account (bottom left, light blue text on dark blue background)
+	Limited experience (bottom left, light blue text on dark blue background)
+	Name: "user"
+	Password: [click "Next"] (you do not have to enter a password)
+	
+Edge
+	"Not now"
+
+Privacy Settings
+	UNcheck everything
+
+Wait for installation to finish
