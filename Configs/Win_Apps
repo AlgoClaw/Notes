@@ -1,4 +1,4 @@
-Chocolatey
+Chocolatey (https://chocolatey.org/install)
 	Open PowerShell as Admin > Paste and run
 		Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; iex ((New-Object System.Net.WebClient).DownloadString('https://community.chocolatey.org/install.ps1'))
 
@@ -6,20 +6,39 @@ Choclately GUI
 	Open CMD as Admin > Paste and run
 		choco install -y chocolateygui 
 
-
-
-
 Microsoft PowerToys
 	https://github.com/microsoft/PowerToys/releases/latest
 
+7-Zip
+	choco install -y 7zip
+	https://www.7-zip.org/download.html
+VLC
+	choco install -y vlc
+	https://www.videolan.org/vlc/
+
+FileZilla
+	choco install -y filezilla
+	https://filezilla-project.org/download.php
+
+WireGuard
+	choco install -y wireguard
+	https://download.wireguard.com/windows-client/wireguard-installer.exe
+
+mRemoteNG
+	choco install -y mremoteng
+	https://github.com/mRemoteNG/mRemoteNG/releases/latest
+
+Notepad++
+	choco install -y notepadplusplus
+	https://github.com/notepad-plus-plus/notepad-plus-plus/releases/latest
+
+
+
 
 choco install -y firefox
-choco install -y filezilla
-choco install -y notepadplusplus
-choco install -y 7zip
-choco install -y vlc
 
-
+Wintoys
+https://apps.microsoft.com/detail/9P8LTPGCBZXD
 
 AV1 Video Extension
 https://apps.microsoft.com/detail/9MVZQVXJBQ9V
