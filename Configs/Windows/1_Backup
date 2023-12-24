@@ -1,0 +1,26 @@
+Wireguard Tunnels
+
+mRemoteNG Configs
+
+Quick access directory with shortcuts
+
+uBlock rules
+
+MS Word (%AppData% = C:\Users\%username%\AppData)
+	Toolbar(s)
+		%AppData%\Local\Microsoft\Office\*officeSL
+		%AppData%\Local\Microsoft\Office\*officeUI
+	Autocorrect Dictionary
+		%AppData%\Roaming\Microsoft\Office\MSO1033.acl
+	Custom Dictionary
+		%AppData%\Roaming\Microsoft\UProof\
+	Templates
+		%AppData%\Roaming\Microsoft\Templates\
+
+Printer Settings
+	Custom Print Settings/Templates
+	Custom Paper Sizes
+
+Task Scheduler items
+
+Custom startup apps
