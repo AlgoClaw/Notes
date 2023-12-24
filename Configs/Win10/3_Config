@@ -57,6 +57,13 @@ Settings > Devices > Additional mouse options (link) > Mouse Properties (window)
 	Pointers (tab) > Scheme > Windows Inverted (large) (system scheme)
 	Pointer Options (tab) > Visibility > Hide pointer while typing > UNcheck
 
+File Explorer > Quick access >
+	Documents > Right click > Unpin from Quick access
+	Pictures > Right click > Unpin from Quick access
+
+Notepad > Format > Word Wrap > CHECK
+Notepad > Right click > Pin to taskbar
+
 Uninstall additional bloat
 
 	Settings > Apps & features (add or remove programs) >
