@@ -1,0 +1,38 @@
+Backup from existing install:
+	Wireguard Tunnels
+	mRemoteNG Configs
+	Quick access directory with shortcuts
+	uBlock rules
+	MS Word (%AppData% = C:\Users\%username%\AppData)
+		Toolbar(s)
+			%AppData%\Local\Microsoft\Office\*officeSL
+			%AppData%\Local\Microsoft\Office\*officeUI
+		Autocorrect Dictionary
+			%AppData%\Roaming\Microsoft\Office\MSO1033.acl
+		Custom Dictionary
+			%AppData%\Roaming\Microsoft\UProof\
+		Templates
+			%AppData%\Roaming\Microsoft\Templates\
+	Printer Settings
+		Custom Print Settings/Templates
+		Custom Paper Sizes
+
+Win10 > Installation
+	USB > VentToy > Win10 ISO
+	Boot from USB
+	Have network connectivity during setup (Ethernet is always preferable, but it will ask for WiFi stuff at some point, I assume)
+	"Let’s add your account"
+		Offline account (bottom left, light blue text on dark blue background)
+		Limited experience (bottom left, light blue text on dark blue background)
+		Name: "user"
+		Password: [click "Next"] (you do not have to enter a password)
+	Edge
+		"Not now"
+	Privacy Settings
+		UNcheck everything
+	Let the install finish the rest of the setup
+
+Win10 > Configuration
+	Windows Update > Install all updates [several restarts may be required]
+	Windows Update > Install all optional updates
+	
