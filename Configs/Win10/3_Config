@@ -48,8 +48,17 @@ Color Settings > Colors >
 Delete XPS Printer
 
 Add "Computer" to desktop
+	Personalization > Themes > Desktop icon settings > Computer > CHECK > Apply > OK
+
+Change default "Downloads" directory
+	Right click existing Downloads directory > Properties > Downloads Properties (window) > Location (tab) > "C:\Downloads" > Apply > Yes > Yes > OK
+
+Settings > Devices > Additional mouse options (link) > Mouse Properties (window) > 
+	Pointers (tab) > Scheme > Windows Inverted (large) (system scheme)
+	Pointer Options (tab) > Visibility > Hide pointer while typing > UNcheck
 
 Uninstall
+	Xbox
 
 Autoruns (https://learn.microsoft.com/en-us/sysinternals/downloads/autoruns)
 	search "adobe"
