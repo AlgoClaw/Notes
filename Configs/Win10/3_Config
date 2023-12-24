@@ -66,16 +66,29 @@ Notepad > Right click > Pin to taskbar
 
 Uninstall additional bloat
 
-	Settings > Apps & features (add or remove programs) >
-		Xbox > Uninstall
+	Open PowerShell as Admin, paste, and run:
+		Get-ProvisionedAppxPackage -Online | `
+		Where-Object { $_.PackageName -match "xbox" } | `
+		ForEach-Object { Remove-ProvisionedAppxPackage -Online -AllUsers -PackageName $_.PackageName }
 
 	Add an optional feature > Optional features > 
 		Wordpad > Uninstall
 
 	WinToy
-		[all other Xbox stuff]
 
 Disable additional bloat
 	Autoruns (https://learn.microsoft.com/en-us/sysinternals/downloads/autoruns)
 		search "adobe"
 		Office tab > search "adobe"
+
+
+
+-------------------
+To figure out still
+
+Command prompt always admin
+PowerShell always admin
+Disable lock screen (use .reg) (requires explorer restart) (unlock screen will show picture until restart)
+Set windows user profile pic to blue (still need to figure out exact color)
+Change date format
+
