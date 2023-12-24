@@ -9,10 +9,12 @@ Choclately GUI
 Firefox
 	choco install -y firefox
 	https://download.mozilla.org/?product=firefox-stub&os=win&lang=en-US
+	Config: https://github.com/AlgoClaw/Notes/blob/main/Configs/Firefox_Config
 
 Microsoft PowerToys
 	choco install -y powertoys
 	https://github.com/microsoft/PowerToys/releases/latest
+	FancyZones
 
 7-Zip
 	choco install -y 7zip
@@ -39,6 +41,10 @@ Notepad++
 	Settings > Preferences > MISC. > Enable Notepad++ auto-updater > UNcheck
 	[disable file has changed errors]
 
+Signal
+	choco install -y signal
+	https://signal.org/download/windows/
+
 AV1 Video Extension
 	https://apps.microsoft.com/detail/9MVZQVXJBQ9V
 
@@ -54,3 +60,10 @@ Wintoys
 		Xbox Game Speech Window
 		Xbox Identity Provider
 		Xbox TCUI
+
+Intel Graphic Command Center (beta)
+	https://apps.microsoft.com/detail/9NMR79ZTJFTC
+	Add resolution: 5120 x 1440 @ 45Hz
+
+Adobe 2020
+	Config: https://github.com/AlgoClaw/Notes/blob/main/Adobe_Config
