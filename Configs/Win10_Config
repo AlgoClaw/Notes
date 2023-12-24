@@ -33,8 +33,18 @@ Win10 > Installation
 	Let the install finish the rest of the setup
 
 Win10 > Configuration
-	Windows Update > Install all updates and optional updates [several restarts may be required]
-	"UAC" > Never Notify
+	Search "UAC" > Change User Account Control settings > User Account Control Settings > Never Notify > OK
+	Windows Update > Install all updates and optional updates (drivers) [several restarts may be required]
+	Install Firefox (or at least download the Firefox installer). You will want to do this before running Atlas, as Atlas will remove Edge and no browser will remain.
+	Install Atlas
+		https://atlasos.net/
+		Use AME Wizard with default playbook
+		Select Options >
+			Keep bluetooth enabled (uncheck the already-checked box)
+			Do not install any of the recommended browsers (Brave, Waterfox, Chrome)
+		After Atlas finishes installing > Atlas (desktop directory) > 3. Configuration >
+			Printing > Enable Printing.cmd (right click, "Run as administrator")
+			Driver Updates > Enable Automatic Driver Updates.reg
 	Control Panel > Hardware and Sound > Power Options > System Settings >
 		When I press the power button > Do nothing
 		When I press the sleep button > Do nothing
