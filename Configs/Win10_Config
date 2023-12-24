@@ -61,3 +61,9 @@ Win10 > Configuration
 		Multiple displays > Show taskbar buttons on > Taskbar where window is open
 		Pin Firefox
 	Uninstall
+
+
+
+	Autoruns (https://learn.microsoft.com/en-us/sysinternals/downloads/autoruns)
+		search "adobe"
+		Office tab > search "adobe"
