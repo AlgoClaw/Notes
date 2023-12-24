@@ -6,7 +6,12 @@ Choclately GUI
 	Open CMD as Admin > Paste and run
 		choco install -y chocolateygui 
 
+Firefox
+	choco install -y firefox
+	https://download.mozilla.org/?product=firefox-stub&os=win&lang=en-US
+
 Microsoft PowerToys
+	choco install -y powertoys
 	https://github.com/microsoft/PowerToys/releases/latest
 
 7-Zip
@@ -31,20 +36,21 @@ mRemoteNG
 Notepad++
 	choco install -y notepadplusplus
 	https://github.com/notepad-plus-plus/notepad-plus-plus/releases/latest
-
-
-
-
-choco install -y firefox
-
-Wintoys
-https://apps.microsoft.com/detail/9P8LTPGCBZXD
+	Settings > Preferences > MISC. > Enable Notepad++ auto-updater > UNcheck
+	[disable file has changed errors]
 
 AV1 Video Extension
-https://apps.microsoft.com/detail/9MVZQVXJBQ9V
+	https://apps.microsoft.com/detail/9MVZQVXJBQ9V
 
 MPEG-2 Video Extension
-https://apps.microsoft.com/detail/9N95Q1ZZPMH4
+	https://apps.microsoft.com/detail/9N95Q1ZZPMH4
 
 HEVC Video Extensions from Device Manufacturer
-https://apps.microsoft.com/detail/9N4WGH0Z6VHQ
+	https://apps.microsoft.com/detail/9N4WGH0Z6VHQ
+
+Wintoys
+	https://apps.microsoft.com/detail/9P8LTPGCBZXD
+	Uninstall
+		Xbox Game Speech Window
+		Xbox Identity Provider
+		Xbox TCUI
