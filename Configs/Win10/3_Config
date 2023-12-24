@@ -57,9 +57,18 @@ Settings > Devices > Additional mouse options (link) > Mouse Properties (window)
 	Pointers (tab) > Scheme > Windows Inverted (large) (system scheme)
 	Pointer Options (tab) > Visibility > Hide pointer while typing > UNcheck
 
-Uninstall
-	Xbox
+Uninstall additional bloat
 
-Autoruns (https://learn.microsoft.com/en-us/sysinternals/downloads/autoruns)
-	search "adobe"
-	Office tab > search "adobe"
+	Settings > Apps & features (add or remove programs) >
+		Xbox > Uninstall
+
+	Add an optional feature > Optional features > 
+		Wordpad > Uninstall
+
+	WinToy
+		[all other Xbox stuff]
+
+Disable additional bloat
+	Autoruns (https://learn.microsoft.com/en-us/sysinternals/downloads/autoruns)
+		search "adobe"
+		Office tab > search "adobe"
