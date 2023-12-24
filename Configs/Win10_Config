@@ -65,9 +65,11 @@ Win10 > Configuration
 	Ease of Access > Vision > Display >
 		Show transparency in Windows > Off
 		Automatically hide scroll bars in Windows > Off
-		Show desktop background image > Off
+	Personalization > Background > Background > Solid Color > Custom Color > More > (Red: 85, Green: 104, Blue: 137)
 	Color Settings > Colors > 
-		Transparenct effects > Off
+		Transparency effects > Off
+		Choose your accent color > Automatically pick an accent color from my background > CHECK
+	Delete XPS Printer
 
 
 Uninstall
