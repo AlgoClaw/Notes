@@ -60,6 +60,7 @@ Win10 > Configuration
 		Combine taskbar buttons > Never
 		Multiple displays > Show taskbar buttons on > Taskbar where window is open
 		Pin Firefox
+		Notification area > Select which icons appear on the taskbar > Always show all icons in the notification area > On (this disables the overflow menu)
 	Uninstall
 
 
