@@ -1,7 +1,18 @@
 Word Options > 
+
 	Accessibility >
 		Keep accessibility checker running while I work > UNcheck
 		Provide feedback with animation > UNcheck
 		Automatically generate alt text for me > UNcheck
 		Expand all headings when opening a document > Check
 
+	Advanced > Editing Options >
+		When selecting, automatically select entire word > UNcheck
+		Use smart paragraph selection > UNcheck
+		Use smart cursoring > UNcheck
+		Use Normal style for bulleted or numbered lists > CHECK
+		Do not automatically hyperlink screenshot > CHECK
+		
+	Advanced > Cut, copy, and paste > Use smart cut and paste > UNcheck
+
+	Word Options > Advanced > Display >
