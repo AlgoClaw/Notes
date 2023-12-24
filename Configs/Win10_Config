@@ -33,6 +33,19 @@ Win10 > Installation
 	Let the install finish the rest of the setup
 
 Win10 > Configuration
-	Windows Update > Install all updates [several restarts may be required]
-	Windows Update > Install all optional updates
-	
+	Windows Update > Install all updates and optional updates [several restarts may be required]
+	"UAC" > Never Notify
+	Control Panel > Hardware and Sound > Power Options > System Settings >
+		When I press the power button > Do nothing
+		When I press the sleep button > Do nothing
+		When I close the lid > Do nothing (now, you can dock it properly)
+	Star Menu >
+		Unpin items on right side
+		Reduce width to minimum
+		Increase height to maximum
+	Taskbar >
+		Right click search icon > Search > Hidden
+		Combine taskbar buttons > Never
+		Multiple displays > Show taskbar buttons on > Taskbar where window is open
+		Pin Firefox
+	Uninstall
