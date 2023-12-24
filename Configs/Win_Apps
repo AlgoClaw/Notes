@@ -45,6 +45,10 @@ Notepad++
 Signal
 	choco install -y signal
 	https://signal.org/download/windows/
+	File > Preferences > Open at computer login > UNcheck
+	As of 2023-12-24, there is a bug to remove the system try icon, you need to ENABLE the system tray, then disable it:
+		File > Preferences > Minimize to system tray > CHECK
+		File > Preferences > Minimize to system tray > UNcheck
 
 AV1 Video Extension
 	https://apps.microsoft.com/detail/9MVZQVXJBQ9V
