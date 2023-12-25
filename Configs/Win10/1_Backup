@@ -7,16 +7,15 @@ Quick access directory with shortcuts
 uBlock rules
 
 Microsoft Office
-%AppData% = C:\Users\%username%\AppData
-	Toolbar(s)
-		%AppData%\Local\Microsoft\Office\*officeSL
-		%AppData%\Local\Microsoft\Office\*officeUI
-	Autocorrect Dictionary
-		%AppData%\Roaming\Microsoft\Office\MSO1033.acl
+	Toolbar(s) Layout and Custom Toolbar(s)
+		C:\Users\%username%\AppData\Local\Microsoft\Office\*.officeSL
+		C:\Users\%username%\AppData\Local\Microsoft\Office\*.officeUI
+	Word Autocorrect Dictionary
+		C:\Users\%username%\AppData\Roaming\Microsoft\Office\MSO1033.acl
 	Custom Dictionary
-		%AppData%\Roaming\Microsoft\UProof\
+		C:\Users\%username%\AppData\Roaming\Microsoft\UProof\
 	Templates
-		%AppData%\Roaming\Microsoft\Templates\
+		C:\Users\%username%\AppData\Roaming\Microsoft\Templates\
 
 Printer Settings
 	Custom Print Settings/Templates
