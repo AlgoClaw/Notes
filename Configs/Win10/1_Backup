@@ -6,7 +6,8 @@ Quick access directory with shortcuts
 
 uBlock rules
 
-MS Word (%AppData% = C:\Users\%username%\AppData)
+Microsoft Office
+%AppData% = C:\Users\%username%\AppData
 	Toolbar(s)
 		%AppData%\Local\Microsoft\Office\*officeSL
 		%AppData%\Local\Microsoft\Office\*officeUI
