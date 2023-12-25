@@ -19,6 +19,12 @@ Control Panel > Hardware and Sound > Power Options > System Settings >
 	When I press the sleep button > Do nothing
 	When I close the lid > Do nothing (now, you can dock it properly)
 
+Settings > Power & sleep >
+	Screen > On battery power, turn off after > 15 minutes
+	Screen > When plugged in, turn off after > 15 minutes
+	Sleep > On battery power, PC goes to sleep after > 15 minutes
+	Sleep > When plugged in, PC goes to sleep after > 15 minutes
+
 Start Menu >
 	Unpin items on right side
 	Reduce width to minimum
