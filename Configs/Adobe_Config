@@ -50,7 +50,10 @@ Edit > Preferences >
 		
 	Units & Guides >
 		Rulers > Show rulers when opening documents (not available in Adobe Acrobat 2020, but available in older and newer versions)
-		
+
+To remove "Share" "Feedback", and "Account" buttons in the top-right
+	Execute "Adobe_2020 - Remove Share Feedback Account Buttons.reg"
+
 (When viewing a document)
 
 	Collapse right toolbar
