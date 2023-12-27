@@ -51,6 +51,13 @@ Color Settings > Colors >
 	Transparency effects > Off
 	Choose your accent color > Automatically pick an accent color from my background > CHECK
 
+Folder Options (window) > View (tab) >
+	Advanced settings > 
+		Display the full path in the title bar > CHECK
+		Hide empty drives > UNcheck
+		Hide protected operating system files (Recommended) > UNcheck > Warning (window) > Yes
+	Apply > OK
+
 Delete XPS Printer
 
 Add "Computer" to desktop
