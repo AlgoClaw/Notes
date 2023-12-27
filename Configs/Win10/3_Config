@@ -67,6 +67,9 @@ File Explorer > Quick access >
 	Documents > Right click > Unpin from Quick access
 	Pictures > Right click > Unpin from Quick access
 
+Prevent "These Files Might Be Harmful..." popup
+	Internet Options (search) > Internet Properties (window) > Security (tab) > Local Intranet (icon) > Sites (button) > Local Intranet (window) > Advanced > Local Intranet (window) > Add this website to the zone (field) > *.*.*.* > Add (button) > Close (button) > OK (button) > OK (button)
+
 Notepad > Format > Word Wrap > CHECK
 Notepad > Right click > Pin to taskbar
 
