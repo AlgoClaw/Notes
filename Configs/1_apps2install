@@ -24,6 +24,15 @@ VLC
 	choco install -y vlc
 	https://www.videolan.org/vlc/
 
+	Tools > Preferences >
+		Interface >
+			Look and feel > Show systray icon > UNcheck
+			Look and feel > Resize interface to video size > UNcheck
+			Privacy / Network Interaction > Save recently played items > UNcheck
+		Subtitles / OSD >
+			Enable On Screen Display (OSD) > UNcheck
+			Enable Subtitles > UNcheck
+
 FileZilla
 	choco install -y filezilla
 	https://filezilla-project.org/download.php
