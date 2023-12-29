@@ -10,9 +10,8 @@ Microsoft Office
 	Toolbar(s) Layout and Custom Toolbar(s)
 		C:\Users\%username%\AppData\Local\Microsoft\Office\*.officeSL
 		C:\Users\%username%\AppData\Local\Microsoft\Office\*.officeUI
-	Word Autocorrect Dictionary
-		C:\Users\%username%\AppData\Roaming\Microsoft\Office\MSO1033.acl
-	Custom Dictionary
+	Autocorrect and Custom Dictionaries
+		C:\Users\%username%\AppData\Roaming\Microsoft\Office\
 		C:\Users\%username%\AppData\Roaming\Microsoft\UProof\
 	Templates
 		C:\Users\%username%\AppData\Roaming\Microsoft\Templates\
